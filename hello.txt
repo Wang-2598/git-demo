@@ -2,11 +2,5 @@ hello wangyuanzhao hello git 2222222222222
 hello
 wangyuanzhao is super man
 追评晒图
-有礼
-<<<<<<< HEAD
-aaa
-git is a distributed version control system
-test test
-=======
 creating a new branch is quick
 >>>>>>> hot-fix
